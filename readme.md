@@ -1,6 +1,6 @@
 # construction calculator
 
-## Course curriculum project from
+## Course curriculum project
 
 Construction material consumption constructor.  
 Allows you to calculate the consumption of building materials.
